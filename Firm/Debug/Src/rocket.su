@@ -1,0 +1,15 @@
+rocket.c:11:6:Rocket_Init	8	static
+rocket.c:15:6:Rocket_InitStatus	8	static
+rocket.c:19:6:Rocket_UpdateStatusLaunched	0	static
+rocket.c:23:6:Rocket_UpdateStatusAllowDeploy	0	static
+rocket.c:27:6:Rocket_UpdateStatusDeployTimerElapsed	0	static
+rocket.c:31:6:Rocket_UpdateStatusAbleToDeploy_1stStage	0	static
+rocket.c:35:6:Rocket_UpdateStatusAbleToDeploy_2ndStage	0	static
+rocket.c:39:17:Rocket_isLaunched	8	static
+rocket.c:43:17:Rocket_isAllowedDeploy	8	static
+rocket.c:46:17:Rocket_isDeployTimerElapsed	8	static
+rocket.c:49:17:Rocket_isAbleToDeploy_1stStage	8	static
+rocket.c:52:17:Rocket_isAbleToDeploy_2ndStage	8	static
+rocket.c:56:9:Rocket_ReadStatus	8	static
+rocket.c:60:6:Rocket_SetStatus	0	static
+rocket.c:64:6:Rocket_ResetStatus	0	static

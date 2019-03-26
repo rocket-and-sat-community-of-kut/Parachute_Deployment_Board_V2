@@ -1,0 +1,9 @@
+main.c:181:6:SystemClock_Config	112	static
+main.c:419:6:HAL_GPIO_EXTI_Callback	8	static
+main.c:446:6:HAL_TIM_PeriodElapsedCallback	8	static
+main.c:460:6:DriveServo	0	static
+main.c:464:6:ReleaseServo	0	static
+main.c:468:6:DriveAirCylinder	8	static
+main.c:471:6:ReleaseAirCylinder	8	static
+main.c:104:5:main	88	static
+main.c:481:6:Error_Handler	0	static
